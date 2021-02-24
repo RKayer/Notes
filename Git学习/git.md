@@ -17,6 +17,6 @@
    git commit -m ' ' 提交删除
 
 ## Git远程仓库
-1. git clone + 远程仓库地址
+1. git clone + 远程仓库地址  将Github上的仓库克隆到本地，然后将本地上的仓库进行修改
 2. 待本地仓库处理完成之后 git push便可同步到远程仓库（Github）
 
